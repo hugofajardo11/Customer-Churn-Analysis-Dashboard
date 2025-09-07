@@ -30,7 +30,6 @@ The goal is to identify factors influencing churn (customer age, gender, satisfa
 
 ## Actionable Insights
 - **Contact 200+ dissatisfied customers**
-- **Review pricing for $3000-7000 segment**
 - **Loyalty program for 10+ year customer**
 - **Email opt-in campaign (47% not receiving emails)**
 - **Investigate why long term customers are churning the most**
