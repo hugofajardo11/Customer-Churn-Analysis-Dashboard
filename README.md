@@ -24,7 +24,16 @@ The goal is to identify factors influencing churn (customer age, gender, satisfa
 - Customers **with more support calls churn more often**.  
 - **Older customers (45+) churn less** compared to younger groups.  
 - **Dissatisfied customers churned nearly 40% of the time**.  
-- **Email opt-in customers churn slightly less**, suggesting engagement helps retention.  
+- **Email opt-in customers churn slightly less**, suggesting engagement helps retention.
+- **Long-term customers (10+ years) have highest churn**
+
+
+## Actionable Insights
+- **Contact 200+ dissatisfied customers**
+- **Review pricing for $3000-7000 segment**
+- **Loyalty program for 10+ year customer**
+- **Email opt-in campaign (47% not receiving emails)**
+- **Investigate why long term customers are churning the most**
 
 ## How to Run
 1. Clone this repo:  
