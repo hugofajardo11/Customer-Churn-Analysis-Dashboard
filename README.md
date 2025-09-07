@@ -17,7 +17,7 @@ The goal is to identify factors influencing churn (customer age, gender, satisfa
   - `IncomeGroup`, `OptInStatus`,  
 
 ## Dashboard Preview
-![Churn Dashboard](images/Churn_dashboard.png)
+![Churn Dashboard](Churn_dashboard.png)
 
 ## Key Insights
 - **52.6% of customers churned** (2x industry avg of 25%)  
